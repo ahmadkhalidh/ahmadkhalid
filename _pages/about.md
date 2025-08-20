@@ -14,7 +14,7 @@ profile:
     <p>Lokoja, Kogi State</p>
 
 news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -25,5 +25,3 @@ I graduated from [Federal University Lokoja](https://www.fulokoja.edu.ng/) with 
 In my free time, I enjoy playing a variety of sports and capturing moments through photography.
 
 Please feel free to [email](mailto:ahmadkhalidhussain@gmail.com) me at `ahmadkhalidhussain [at] gmail [dot] com` for any questions, or just to say hi!
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
