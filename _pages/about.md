@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Researcher</p>
     <p>Federal University Lokoja</p>
-    <p>Lokoja, Kogi State</p>
+    <p>Lokoja, Kogi State.</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
