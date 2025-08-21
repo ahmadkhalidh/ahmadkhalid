@@ -423,6 +423,11 @@ ninja.data = [{
           description: "The Mental Health Classifier was developed to apply natural language processing for detecting and categorizing mental health conditions from online text, supporting early identification and analysis across multiple categories",
           section: "Projects",handler: () => {
               window.location.href = "/ahmadkhalid/projects/3_project/";
+            },},{id: "projects-application-of-vision-transformer-in-early-detection-and-severity-estimation-of-plant-diseases-using-hyperspectral-and-rgb-imagery",
+          title: 'Application of Vision Transformer in Early Detection and Severity Estimation of Plant Diseases...',
+          description: "Ongoing work",
+          section: "Projects",handler: () => {
+              window.location.href = "/ahmadkhalid/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
