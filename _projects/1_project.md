@@ -1,10 +1,10 @@
 ---
 layout: page
-title: MaEViT
-description: with background image
+title: Exploring Masked Autoencoders on Road Images
+description: Undergraduate capstone.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: undergrad
 related_publications: true
 ---
 
