@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Application of Vision Transformer in Early Detection and Severity Estimation of Plant Diseases Using Hyperspectral and RGB Imagery
+title: Vision Transformer for Early Detection of Rice Diseases Using Hyperspectral and RGB Imagery
 description: Ongoing work
 img: assets/img/rice.jpg
 importance: 1
