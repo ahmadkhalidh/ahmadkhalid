@@ -408,9 +408,9 @@ ninja.data = [{
             },},{id: "news-i-graduated-with-first-class-honours-from-federal-university-of-lokoja",
           title: 'I graduated with First Class Honours from Federal University of Lokoja.',
           description: "",
-          section: "News",},{id: "projects-maevit",
-          title: 'MaEViT',
-          description: "with background image",
+          section: "News",},{id: "projects-exploring-masked-autoencoders-on-road-images",
+          title: 'Exploring Masked Autoencoders on Road Images',
+          description: "Undergraduate capstone.",
           section: "Projects",handler: () => {
               window.location.href = "/ahmadkhalid/projects/1_project/";
             },},{id: "projects-project-2",
