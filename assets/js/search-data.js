@@ -413,14 +413,14 @@ ninja.data = [{
           description: "Undergraduate capstone.",
           section: "Projects",handler: () => {
               window.location.href = "/ahmadkhalid/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-healthfin-classifier",
+          title: 'HealthFin Classifier',
+          description: "The HealthFin Classifier was developed to explore how artificial intelligence can be applied in the financial aspects of healthcare, such as insurance claims, medical billing, and fraud detection.",
           section: "Projects",handler: () => {
               window.location.href = "/ahmadkhalid/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-mental-health-classifier",
+          title: 'Mental Health Classifier',
+          description: "The Mental Health Classifier was developed to apply natural language processing for detecting and categorizing mental health conditions from online text, supporting early identification and analysis across multiple categories",
           section: "Projects",handler: () => {
               window.location.href = "/ahmadkhalid/projects/3_project/";
             },},{
