@@ -415,8 +415,8 @@ ninja.data = [{
             },},{id: "news-i-graduated-with-first-class-honours-from-federal-university-of-lokoja",
           title: 'I graduated with First Class Honours from Federal University of Lokoja.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-maevit",
+          title: 'MaEViT',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/ahmadkhalid/projects/1_project/";
