@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: These are the main projects I’ve been involved in. Feel free to reach out if you’d like to chat!
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [undergrad]
 horizontal: false
 ---
 
