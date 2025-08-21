@@ -5,7 +5,7 @@ permalink: /projects/
 description: These are the main projects I’ve been involved in. Feel free to reach out if you’d like to chat!
 nav: true
 nav_order: 3
-display_categories: [undergrad]
+display_categories: [undergrad, ongoing]
 horizontal: false
 ---
 
