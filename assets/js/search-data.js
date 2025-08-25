@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-cv",
+    title: "cv",
     section: "Navigation",
     handler: () => {
       window.location.href = "/ahmadkhalid/";
@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/ahmadkhalid/https:/drive.google.com/file/d/13liieSvyTyHOGV_txzQJqPgkKyratMM1/view?usp=sharing";
+            window.location.href = "/ahmadkhalid/";
           },
         },{id: "nav-teaching",
           title: "teaching",
