@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/ahmadkhalid/assets/pdf/blank.pdf";
+            window.location.href = "/ahmadkhalid/assets/pdf/Khalid_Resume.pdf";
           },
         },{id: "nav-teaching",
           title: "teaching",
