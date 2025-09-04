@@ -1,5 +1,6 @@
 ---
-layout: about
+layout: post
+# title: " "
 date: 2023-10-10
 inline: true
 related_posts: false
