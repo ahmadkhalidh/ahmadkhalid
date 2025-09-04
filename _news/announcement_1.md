@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-
 I graduated with First Class Honours from Federal University of Lokoja.
