@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "During my undergraduate years at Fulokoja, I volunteered as a Tutor for several math, CS, and physics courses. Here are some of the courses and roles I’ve taken on.",
+          description: "Teaching experience, tutoring, and academic mentoring.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/ahmadkhalid/teaching/";
