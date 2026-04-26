@@ -2,17 +2,34 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: During my undergraduate years at Fulokoja, I volunteered as a Tutor for several math, CS, and physics courses. Here are some of the courses and roles I’ve taken on.
+description: Teaching experience, tutoring, and academic mentoring.
 nav: true
 nav_order: 6
 ---
 
-**Federal University Lokoja**
+## Teaching and Mentoring
 
-- **PHY-111 General Mechanics**
-- **PHY-131 Heat and Properties of Matter**
-- **PHY-211 Mechanics w/Calc**
-- **MTH-111 Elementary Mathematics**
-- **Math/CS General Tutor:** Counseled students with coding (Python, C++), Core CS topics, and computational topics like Calculus, Linear Algebra, and Discrete Structures.
+During my undergraduate studies at Federal University Lokoja, I volunteered as a tutor and academic mentor for courses in mathematics, physics, and computer science. These experiences strengthened my interest in teaching, student support, and clear technical communication.
 
-I really enjoy tutoring and want to keep doing it as I continue my studies. As a first-generation college student, I'm especially passionate about helping students from minority backgrounds. If you think I could help in any way, feel free to reach out!
+## Courses Supported
+
+### Physics
+- **PHY 111:** General Mechanics  
+- **PHY 131:** Heat and Properties of Matter  
+- **PHY 211:** Mechanics with Calculus  
+
+### Mathematics
+- **MTH 111:** Elementary Mathematics  
+
+### Computer Science and Quantitative Support
+- Programming fundamentals in **Python** and **C++**  
+- Core computer science concepts  
+- Calculus  
+- Linear Algebra  
+- Discrete Structures  
+
+## Mentoring Philosophy
+
+I value teaching as a way to make technical subjects more accessible and engaging. I am particularly committed to supporting students from underrepresented and first generation backgrounds, and I hope to continue contributing through teaching and mentorship throughout my academic career.
+
+If you believe I may be helpful in a teaching, tutoring, or mentoring role, please feel free to get in touch.
