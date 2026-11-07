@@ -4,8 +4,6 @@ layout: about
 title: about
 permalink: /
 
-Hi! I am an Erasmus Mundus Master's candidate in <a href="https://emlds.fcsh.unl.pt/">Linguistic Data Science (EMLDS)</a>, with a background in Computer Science from the <a href="https://www.fulokoja.edu.ng/">Federal University of Lokoja</a>.
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -22,6 +20,8 @@ announcements:
 selected_papers: true
 social: true
 ---
+
+Hi! I am an Erasmus Mundus Master's candidate in <a href="https://emlds.fcsh.unl.pt/">Linguistic Data Science (EMLDS)</a>, with a background in Computer Science from the <a href="https://www.fulokoja.edu.ng/">Federal University of Lokoja</a>.
 
 My research interests include trustworthy and multimodal AI, computer vision, and natural language processing, with a focus on developing robust and interpretable systems for healthcare and socially impactful applications. I am particularly interested in medical AI, multilingual language models, low-resource NLP, and vision-language learning. I also served as a Judge at the <a href="https://deeplearningindaba.com/2025/">Deep Learning Indaba Community Challenge</a> in Kigali, Rwanda, evaluating innovative AI solutions from across Africa.
 
