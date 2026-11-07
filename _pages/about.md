@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hi! I am a recent graduate in <a href='https://www.fulokoja.edu.ng/department.php?i=3&n=computer-science&f=computer-science'>Computer Science</a> from the <a href='https://www.fulokoja.edu.ng/'>Federal University of Lokoja.
+Hi! I am an Erasmus Mundus Master's candidate in <a href="https://emlds.fcsh.unl.pt/">Linguistic Data Science (EMLDS)</a>, with a background in Computer Science from the <a href="https://www.fulokoja.edu.ng/">Federal University of Lokoja</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Researcher</p>
-    <p>Federal University Lokoja</p>
-    <p>Lokoja, Kogi State.</p>
+    <p>Erasmus Mundus Master's Candidate, EMLDS</p>
+    <p>Università Cattolica del Sacro Cuore, Milan</p>
 
 # news: true # includes a list of news items
 announcements:
@@ -21,10 +20,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My research focuses on trustworthy machine learning, computer vision, and natural language processing, with an emphasis on healthcare and socially impactful AI systems. Recently, I served as a Judge in the [Deep Learning Indaba](https://deeplearningindaba.com/2025/) community challenge held in Kigali, Rwanda, where i supported the evaluation of innovative solutions from several teams across different countries in Africa.
+My research interests include trustworthy and multimodal AI, computer vision, and natural language processing, with a focus on developing robust and interpretable systems for healthcare and socially impactful applications. I am particularly interested in medical AI, multilingual language models, low-resource NLP, and vision-language learning. I also served as a Judge at the [Deep Learning Indaba](https://deeplearningindaba.com/2025/) Community Challenge in Kigali, Rwanda, evaluating innovative AI solutions from across Africa.
 
-I graduated with First Class Honours in Computer Science from [Federal University Lokoja](https://www.fulokoja.edu.ng/), earning a Bachelor of Science degree in 2023. I was advised by Mrs. [Fati Oiza Ochepa](https://fulokoja.edu.ng/staff.php?i=870&sn=fati-ochepa). My undergraduate research, titled "Real-Time Road Anomaly Detection via Masked Autoencoder-Enhanced Vision Transformers," explored how self-supervised learning and transformer-based architectures can improve the accuracy and efficiency of computer vision systems in real-world road conditions. For more details, please refer to the [`Publications`](https://ahmadkhalidh.github.io/ahmadkhalid/publications/) section.
+I graduated with First Class Honours in Computer Science from [Federal University Lokoja](https://www.fulokoja.edu.ng/) in 2023. My undergraduate research, titled *Real-Time Road Anomaly Detection via Masked Autoencoder-Enhanced Vision Transformers*, explored the application of self-supervised learning and transformer-based architectures to real-world computer vision problems. Further details are available in the [Publications](https://ahmadkhalidh.github.io/ahmadkhalid/publications/) section.
 
-Outside of academics, I enjoy staying active through sports and games, as well as engaging with peers and exploring emerging trends in AI and technology
+Outside academia, I enjoy sports, games, connecting with peers, and keeping up with developments in AI and technology.
 
-Please feel free to [email](mailto:ahmadkhalidhussain@gmail.com) me at `ahmadkhalidhussain [at] gmail [dot] com` for any questions, or just to say hi!
+For enquiries or just to say hello, feel free to [email me](mailto:ahmadkhalidhussain@gmail.com).
