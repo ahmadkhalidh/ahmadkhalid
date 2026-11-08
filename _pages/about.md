@@ -2,7 +2,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /index.html
 
 profile:
   align: right
