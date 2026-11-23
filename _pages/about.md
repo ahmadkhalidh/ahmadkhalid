@@ -9,26 +9,30 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Erasmus Mundus Master's Candidate, EMLDS</p>
-    <p>Università Cattolica del Sacro Cuore, Milan</p>
+    <p>Erasmus Mundus Scholar | EMLDS</p>
+    <p>Università Cattolica del Sacro Cuore, Milan, Italy</p>
 
 news: true
 announcements:
   enabled: true
-  limit: 20
+  limit: 10
 
 selected_papers: true
 social: true
 ---
 
-Hi! I am an Erasmus Mundus Master's candidate in <a href="https://emlds.fcsh.unl.pt/">Linguistic Data Science (EMLDS)</a>, with a background in Computer Science from the <a href="https://www.fulokoja.edu.ng/">Federal University of Lokoja</a>.
+Hi! I am an **Erasmus Mundus Scholar** pursuing a joint Master's degree in [Linguistic Data Science (EMLDS)](https://emlds.fcsh.unl.pt/), currently studying at **Università Cattolica del Sacro Cuore** in Milan, Italy. I hold a **First Class Honours degree in Computer Science** from [Federal University Lokoja](https://www.fulokoja.edu.ng/), Nigeria.
 
-My research interests include trustworthy and multimodal AI, computer vision, and natural language processing, with a focus on developing robust and interpretable systems for healthcare and socially impactful applications. I am particularly interested in medical AI, multilingual language models, low-resource NLP, and vision-language learning.
+My research interests lie at the intersection of **trustworthy artificial intelligence, natural language processing, and computer vision**, with a particular focus on the reliability, robustness, and interpretability of AI systems. I am especially interested in **multilingual and low-resource language models, multimodal learning, and medical AI**.
 
-I also served as a Judge at the <a href="https://deeplearningindaba.com/2025/">Deep Learning Indaba Community Challenge</a> in Kigali, Rwanda, evaluating innovative AI solutions from across Africa.
+My current research examines the **evaluation and reliability of multilingual language models**, particularly for underrepresented languages. I investigate how tokenization, linguistic variation, and model representations influence downstream performance. I also work on explainable machine learning and deep learning methods for medical imaging and healthcare applications.
 
-I graduated with First Class Honours in Computer Science from <a href="https://www.fulokoja.edu.ng/">Federal University Lokoja</a> in 2023. My undergraduate research, titled *Real-Time Road Anomaly Detection via Masked Autoencoder-Enhanced Vision Transformers*, explored the application of self-supervised learning and transformer-based architectures to real-world computer vision problems. Further details are available in the <a href="https://ahmadkhalidh.github.io/ahmadkhalid/publications/">Publications</a> section.
+Previously, my undergraduate research focused on **road anomaly detection using masked autoencoders and vision transformers**, combining self-supervised representation learning with computer vision. My broader research experience includes clinical prediction, medical image analysis, and explainable AI. Selected research outputs are available on my [Publications]({{ '/publications/' | relative_url }}) page.
 
-Outside academia, I enjoy sports, games, connecting with peers, and keeping up with developments in AI and technology.
+Beyond research, I served as a **judge at the [Deep Learning Indaba 2025 Community Challenge](https://deeplearningindaba.com/2025/)** in Kigali, Rwanda, evaluating AI projects developed by participants from across Africa. I have also contributed to academic tutoring, research collaborations, and initiatives supporting AI education.
 
-For enquiries or just to say hello, feel free to <a href="mailto:ahmadkhalidhussain@gmail.com">email me</a>.
+I welcome **research collaborations, visiting research opportunities, and academic discussions** related to trustworthy AI, multilingual language models, and multimodal learning.
+
+Outside academia, I enjoy sports, games, meeting people, and exploring new ideas in technology.
+
+Feel free to [get in touch](mailto:ahmadkhalidhussain@gmail.com).
