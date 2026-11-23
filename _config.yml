@@ -143,8 +143,6 @@ collections:
   books:
     output: false 
   news:
-    defaults:
-      layout: post
     output: true
     permalink: /news/:path/
   projects:
@@ -221,6 +219,11 @@ plugins:
 
 # Sitemap settings
 defaults:
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: post
   - scope:
       path: "assets"
     values:
