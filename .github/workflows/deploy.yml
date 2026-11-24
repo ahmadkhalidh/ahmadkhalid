@@ -70,14 +70,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.3.5"
+          ruby-version: "3.3"
           bundler-cache: true
       - name: Setup Python 🐍
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.13"
           cache: "pip" # caching pip dependencies
@@ -94,6 +94,23 @@ jobs:
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
+      - name: Verify generated homepage and assets
+        run: |
+          if [ ! -s _site/index.html ]; then
+            echo "::error::Jekyll did not generate a non-empty _site/index.html"
+            exit 1
+          fi
+          if ! grep -Fq "Erasmus Mundus Scholar" _site/index.html; then
+            echo "::error::Generated homepage does not contain the About page content"
+            exit 1
+          fi
+          for asset in assets/css/main.css assets/js/common.js assets/img/prof_pic.jpg assets/pdf/Khalid_Resume.pdf; do
+            if [ ! -s "_site/$asset" ]; then
+              echo "::error::Required asset missing from build output: $asset"
+              exit 1
+            fi
+          done
+          echo "Homepage and required assets verified."
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss

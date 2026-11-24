@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Khalid_Resume.pdf
+permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
