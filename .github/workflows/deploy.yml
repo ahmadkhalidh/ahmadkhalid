@@ -94,6 +94,15 @@ jobs:
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
+      - name: Verify homepage
+        run: |
+          echo "Checking generated homepage..."
+          ls -la _site/
+          if [ ! -f _site/index.html ]; then
+            echo "::error::Jekyll did not generate index.html"
+            exit 1
+          fi
+          echo "Homepage generated successfully."
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
