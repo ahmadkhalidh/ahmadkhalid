@@ -6,10 +6,11 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: True
+  image_circular: true
   more_info: >
     <p>Erasmus Mundus Scholar | EMLDS</p>
-    <p>Università Cattolica del Sacro Cuore, Milan, Italy</p>
+    <p>Università Cattolica del Sacro Cuore</p>
+    <p>Milan, Italy</p>
 
 news: true
 announcements:
@@ -20,12 +21,14 @@ selected_papers: true
 social: true
 ---
 
-Hi! I am an **Erasmus Mundus Scholar** pursuing a joint Master's degree in [Linguistic Data Science (EMLDS)](https://emlds.fcsh.unl.pt/), currently studying at **Università Cattolica del Sacro Cuore**, Milan, Italy. I hold a First Class Honours degree in Computer Science from [Federal University Lokoja](https://www.fulokoja.edu.ng/), Nigeria.
+I am an **Erasmus Mundus Scholar** pursuing a joint Master's degree in [Linguistic Data Science (EMLDS)](https://emlds.fcsh.unl.pt/), currently studying at **Università Cattolica del Sacro Cuore**, Milan, Italy. I hold a First Class Honours degree in Computer Science from [Federal University Lokoja](https://www.fulokoja.edu.ng/), Nigeria.
 
-My research interests lie at the intersection of **trustworthy AI, natural language processing, and computer vision**, with particular interests in multilingual language models, multimodal learning, and medical AI.
+My research interests span **trustworthy artificial intelligence, natural language processing, and computer vision**, with an emphasis on multilingual language models, multimodal learning, and medical AI.
 
-My current research focuses on the evaluation and reliability of multilingual language models, particularly for underrepresented languages. I also investigate explainable AI methods for medical imaging and healthcare applications. Selected research outputs are available on my [Publications]({{ '/publications/' | relative_url }}) page.
+My current research examines the reliability, interpretability, and generalization of AI systems. I am particularly interested in understanding the limitations of multilingual language models in underrepresented languages and developing reliable and interpretable machine learning methods for medical imaging and healthcare applications.
 
-Beyond research, I served as a judge at the [Deep Learning Indaba 2025 Community Challenge](https://deeplearningindaba.com/2025/) in Kigali, Rwanda. I welcome research collaborations, visiting research opportunities, and academic discussions within my areas of interest.
+My research contributions are available on the [publications]({{ '/publications/' | relative_url }}) and [projects]({{ '/projects/' | relative_url }}) pages.
 
-Feel free to [get in touch](mailto:ahmadkhalidhussain@gmail.com).
+Beyond research, I contribute to the academic community through peer review, teaching, and student mentorship. I also served as a judge at the [Deep Learning Indaba 2025 Community Challenge](https://deeplearningindaba.com/2025/) in Kigali, Rwanda.
+
+I welcome research collaborations and visiting research opportunities aligned with my research interests. Feel free to [get in touch](mailto:ahmadkhalidhussain@gmail.com).
