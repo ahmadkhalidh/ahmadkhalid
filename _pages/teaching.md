@@ -14,19 +14,22 @@ During my undergraduate studies at Federal University Lokoja, I volunteered as a
 ## Courses Supported
 
 ### Physics
-- **PHY 111:** General Mechanics  
-- **PHY 131:** Heat and Properties of Matter  
-- **PHY 211:** Mechanics with Calculus  
+
+- **PHY 111:** General Mechanics
+- **PHY 131:** Heat and Properties of Matter
+- **PHY 211:** Mechanics with Calculus
 
 ### Mathematics
-- **MTH 111:** Elementary Mathematics  
+
+- **MTH 111:** Elementary Mathematics
 
 ### Computer Science and Quantitative Support
-- Programming fundamentals in **Python** and **C++**  
-- Core computer science concepts  
-- Calculus  
-- Linear Algebra  
-- Discrete Structures  
+
+- Programming fundamentals in **Python** and **C++**
+- Core computer science concepts
+- Calculus
+- Linear Algebra
+- Discrete Structures
 
 ## Mentoring Philosophy
 
