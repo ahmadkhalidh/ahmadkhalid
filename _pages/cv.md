@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: cv
 nav: true
@@ -8,5 +8,3 @@ cv_pdf: Khalid_Resume.pdf
 toc:
   sidebar: left
 ---
-
-
