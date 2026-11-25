@@ -28,7 +28,14 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/ahmadkhalid/cv/";
+            window.location.href = "/ahmadkhalid/assets/pdf/Khalid_Resume.pdf";
+          },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Teaching experience, academic tutoring, and student mentorship.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/ahmadkhalid/teaching/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
