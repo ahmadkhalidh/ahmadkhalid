@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/ahmadkhalid/";
@@ -28,14 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/ahmadkhalid/assets/pdf/Khalid_Resume.pdf";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Teaching experience, tutoring, and academic mentoring.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/ahmadkhalid/teaching/";
+            window.location.href = "/ahmadkhalid/cv/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
@@ -60,26 +53,16 @@ ninja.data = [{
           section: "News",},{id: "news-selected-for-the-international-campus-for-mathematical-research-and-applications-icmra-visiting-program-at-the-beijing-institute-of-mathematical-sciences-and-applications-bimsa-china",
           title: 'Selected for the International Campus for Mathematical Research and Applications (ICMRA) visiting program...',
           description: "",
-          section: "News",},{id: "projects-exploring-masked-autoencoders-on-road-images",
-          title: 'Exploring Masked Autoencoders on Road Images',
-          description: "Undergraduate capstone.",
+          section: "News",},{id: "projects-beyond-subword-fragmentation",
+          title: 'Beyond Subword Fragmentation',
+          description: "Investigating the relationship between subword fragmentation and named entity recognition errors in African languages through controlled experiments and fragmentation-aware learning.",
           section: "Projects",handler: () => {
               window.location.href = "/ahmadkhalid/projects/1_project/";
-            },},{id: "projects-healthfin-classifier",
-          title: 'HealthFin Classifier',
-          description: "The HealthFin Classifier was developed to explore how artificial intelligence can be applied in the financial aspects of healthcare, such as insurance claims, medical billing, and fraud detection.",
+            },},{id: "projects-tokenization-and-cross-lingual-representation-alignment",
+          title: 'Tokenization and Cross-Lingual Representation Alignment',
+          description: "Investigating the relationship between subword tokenization, representation alignment, and translation retrieval in multilingual large language models.",
           section: "Projects",handler: () => {
               window.location.href = "/ahmadkhalid/projects/2_project/";
-            },},{id: "projects-mental-health-classifier",
-          title: 'Mental Health Classifier',
-          description: "The Mental Health Classifier was developed to apply natural language processing for detecting and categorizing mental health conditions from online text, supporting early identification and analysis across multiple categories",
-          section: "Projects",handler: () => {
-              window.location.href = "/ahmadkhalid/projects/3_project/";
-            },},{id: "projects-vision-transformer-for-early-detection-of-rice-diseases-using-hyperspectral-and-rgb-imagery",
-          title: 'Vision Transformer for Early Detection of Rice Diseases Using Hyperspectral and RGB Imagery...',
-          description: "Ongoing work",
-          section: "Projects",handler: () => {
-              window.location.href = "/ahmadkhalid/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
