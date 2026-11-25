@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Teaching experience, tutoring, and academic mentoring.
-nav: true
+nav: false
 nav_order: 6
 ---
 

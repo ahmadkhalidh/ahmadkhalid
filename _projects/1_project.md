@@ -1,21 +1,20 @@
 ---
 layout: page
-title: Exploring Masked Autoencoders on Road Images
-description: Undergraduate capstone.
-img: assets/img/vit.jpg
+title: Beyond Subword Fragmentation
+description: Investigating the relationship between subword fragmentation and named entity recognition errors in African languages through controlled experiments and fragmentation-aware learning.
+img: assets/img/ner.png
 importance: 1
-category: undergrad
-related_publications: true
+category: ongoing
+related_publications: false
 ---
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/vit.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ner.png" title="Named Entity Recognition in African Languages" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The Framework of the Masked Autoencoders and Vision transformer
+    Subword fragmentation and named entity recognition in African languages.
 </div>
 
-I worked on a project using Masked Autoencoders with Vision Transformers (MAE-ViT) to explore how self-supervised learning can improve image understanding. The idea was to mask out a large portion of the input image and train the model to reconstruct the missing parts, forcing the encoder to capture meaningful features rather than memorizing low-level details. This process allowed the model to learn strong visual representations without requiring large amounts of labeled data. After pretraining, the learned features were fine-tuned for tasks such as classification and anomaly detection, showing improved accuracy and robustness compared to conventional CNN-based methods.
-
+This project investigates how subword tokenization affects named entity recognition across six African languages: Hausa, Nigerian Pidgin, Yoruba, Igbo, Swahili, and isiZulu. Using the MasakhaNER 2.0 dataset, the study examines whether subword fragmentation contributes to entity recognition errors after accounting for entity length, frequency, and category.
